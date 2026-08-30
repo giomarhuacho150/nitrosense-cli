@@ -27,16 +27,7 @@ Hecho por **Giomar Huacho** y **Clementine**.
 ## 📥 Instalación
 
 ```bash
-git clone [https://github.com/giomarhuacho150/nitrosense-cli.git](https://github.com/giomarhuacho150/nitrosense-cli.git)
+git clone https://github.com/giomarhuacho150/nitrosense-cli.git
 cd nitrosense-cli
 chmod +x install.sh
 ./install.sh
-
-[1]	Modo Automático (EC)
-[2]	Modo Eco (40% silencioso)
-[3]	Modo Equilibrado (65%)
-[4]	Modo Máximo / Turbo (100%)
-[5]	Control manual personalizado
-[t]	Activar / Desactivar Intel Turbo Boost
-[k]	Matar juegos colgados en segundo plano
-[q]	Salir
